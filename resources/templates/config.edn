@@ -1,6 +1,6 @@
 {:site-title           "ClojureTO"
- :author               "The Incredible Toronto Clojure Community"
- :description          "The Toronto Clojure Community"
+ :author               "The ClojureTO Community"
+ :description          "Website of the Clojure Community Living and Working in Toronto, Ontario, Canada."
  :site-url             "http://clojureto.github.io"
  :post-root            "posts"
  :page-root            "pages"

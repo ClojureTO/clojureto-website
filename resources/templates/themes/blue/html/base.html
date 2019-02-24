@@ -5,7 +5,7 @@
     <title>{{title}}{% block subtitle %}{% endblock %}</title>
     <link rel="canonical" href="{{site-url}}{{uri}}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="//fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700" rel="stylesheet"
+    <link href="//fonts.googleapis.com/css?family=Raleway|Alegreya:400italic,700italic,400,700" rel="stylesheet"
           type="text/css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
@@ -59,11 +59,9 @@
             <div id="sidebar">
                 <h3>Links</h3>
                 <ul id="links">
-                    <li><a href="http://cryogenweb.org/docs/home.html">Cryogen Docs</a></li>
-                    <li><a href="http://carmenla.me/blog/archives">Carmen's Blog</a></li>
-                    {% for page in sidebar-pages %}
-                    <li><a href="{{page.uri}}">{{page.title}}</a></li>
-                    {% endfor %}
+                    <li><a href="https://clojure.org">Clojure Website</a></li>
+                    <li><a href="https://github.com/ClojureTO">GitHub Organization</a></li>
+                    <li><a href="https://www.meetup.com/Clojure-Toronto/"> Meetup</a></li>
                 </ul>
                 {% if latest-posts|not-empty %}
                 <div id="recent">

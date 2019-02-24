@@ -1,5 +1,5 @@
 (defproject cryogen "0.1.0"
-            :description "Simple static site generator"
+            :description "ClojureTO static site generator"
             :url "https://github.com/lacarmen/cryogen"
             :license {:name "Eclipse Public License"
                       :url "http://www.eclipse.org/legal/epl-v10.html"}
