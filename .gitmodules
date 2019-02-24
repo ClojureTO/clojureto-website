@@ -1,0 +1,3 @@
+[submodule "resources/public"]
+	path = resources/public
+	url = https://github.com/ClojureTO/clojureto.github.io.git
