@@ -29,4 +29,5 @@
  :clean-urls?          true
  :hide-future-posts?   true
  :klipse               {}
- :debug?               false}
+ :debug?               false
+ :google-analytics     "UA-2938015-12"}
