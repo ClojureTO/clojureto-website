@@ -73,6 +73,10 @@ body {
 #content img {
     max-width: 100%;
     height: auto;
+    border: 1px;
+    border-color: #aaa;
+    border-style: solid;
+    border-radius: 3px;
 }
 
 footer {
