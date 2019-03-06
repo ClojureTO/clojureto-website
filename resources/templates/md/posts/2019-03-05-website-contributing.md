@@ -67,7 +67,7 @@ After a few seconds, the default browser opens and shows the website. Since this
 
 ![Forking clojureto-website repository](/img/preview-content-website.png)
 
-Every time I save the file that I'm working on, the website is regenerated and the last changes are ready to see.
+Every time I save the file that I'm working on, the website is regenerated and the last changes are ready to see. But, be attentive:
 
 ### Committing and Pushing Changes
 
@@ -79,23 +79,30 @@ At this point in time, the article is finished and ready to submit. I commit all
     $ git commit -m "Article 'How to Contribute to ClojureTO Website'"
     $ git push origin master
 
-daasdas
-
 ### Creating a Pull Request
+
+The pull request happens on GitHub. Now that the changes are pushed, my fork is different from the original, and this difference is exactly the content of the pull request I'm creating. I click on the button "New pull request" and it shows me the differences.
+
+![Pull request from my fork to clojureto-website repository](/img/pullrequest-content-website.png)
+
+When I click the green button "Create pull request" I'm actually submitting my changes for review by one of the website's editors. My work is probably not done yet because they may ask me to fix some typos, rephrase some sentences and clarify others. I do extra changes and I just keep pushing to my master branch to have my pull request updated.
+
+When the pull request is accepted and the merge is done, it doesn't mean the content is immediately published on the website. The editor has some work to do as well.
 
 ### What Happens Next
 
-#### Loading the Submodule
+The editor is the person responsible for accepting the pull request and publishing the contributions in the sequence. This person has special push privileges to the repositories [clojureto-website][1] and [clojureto-github.io][5]. The pull request is merged and now the editor needs to generate the static content. In the event she never did it before, she starts by cloning the clojureto-website repository:
 
-For the moment, the folder `resources/public` is empty because the submodule was not initialized yet.
-
+    $ git clone https://github.com/htmfilho/clojureto-website.git
     $ cd clojureto-website
+
+The editor has all recent changes locally and needs to setup the submodule:
+
     $ git submodule init
     $ git submodule update
     $ git submodule foreach git pull origin master
 
 Now, the folder `resources/public` is not empty anymore. It contains the most recent published content.
-
 
     $ cd resources/public
     $ git add .
@@ -106,3 +113,4 @@ Now, the folder `resources/public` is not empty anymore. It contains the most re
 [2]: https://clojureto.github.io/posts-output/2019-02-23-website-behind
 [3]: http://cryogenweb.org
 [4]: https://daringfireball.net/projects/markdown/
+[5]: https://github.com/ClojureTO/clojureto.github.io
