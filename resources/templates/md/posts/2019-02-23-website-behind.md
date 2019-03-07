@@ -1,7 +1,7 @@
 {:title "What is Behind clojureto.github.io"
  :author "Hildeberto Mendonca"
  :layout :post
- :tags  ["cryogen" "website"]
+ :tags  ["Cryogen" "Website" "Github" "Git"]
  :toc false}
 
 Building a static website never felt so dynamic nowadays. With a basic technical background we can build a low cost website with minimal infra-structure in no time. Tools like [Jekyll][1] and [JBake][2] are popular choices, but the Clojure community count on its own solution: [Cryogen][3].
