@@ -130,7 +130,7 @@ When the push is completed the latest contributions to the website are published
 That's enough with this website and Git. Starting next post, everything will be about the Community and Clojure!
 
 [1]: https://github.com/ClojureTO/clojureto-website
-[2]: https://clojureto.github.io/posts-output/2019-02-23-website-behind
+[2]: /posts/2019-02-23-website-behind
 [3]: http://cryogenweb.org
 [4]: https://daringfireball.net/projects/markdown/
 [5]: https://github.com/ClojureTO/clojureto.github.io
