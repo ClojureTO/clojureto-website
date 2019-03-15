@@ -5,6 +5,7 @@
 
 Inspired by [Clojure.org][1], we have created our own list of companies, based in the Great Toronto Area (GTA), that deploy Clojure in production. You may find this list useful to look for business and carrier opportunities:
 
+- [CircleCI](https://circleci.com)
 - [Kira Systems](https://kirasystems.com)
 - [Synqrinus](http://synqrinus.com)
 
