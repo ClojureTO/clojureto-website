@@ -10,6 +10,7 @@ Inspired by [Clojure.org][1], we have created our own list of companies, based i
 - [Kira Systems](https://kirasystems.com)
 - [Synqrinus](http://synqrinus.com)
 - [University Health Network](https://www.uhn.ca/)
+- [TODAQ](http://todaqfinance.net/)
 
 You are welcome to add your own company here by following the [contribution guide][2].
 
