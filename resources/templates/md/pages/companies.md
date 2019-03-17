@@ -3,7 +3,11 @@
  :page-index 0
  :navbar? true}
 
-Inspired by [Clojure.org][1], we have created our own list of companies, based in the Great Toronto Area (GTA), that deploy Clojure in production. You may find this list useful to look for business and career opportunities:
+Inspired by [Clojure.org][1], we have created our own list of companies based in the Great Toronto Area (GTA). These companies develop and deploy Clojure applications in production. You may find this list useful to look for business and career opportunities.
+
+![Toronto](/img/toronto-downtown.jpg)
+
+List in alphabetical order:
 
 - [CircleCI](https://circleci.com)
 - [Dive Networks](https://www.dive-networks.com)
