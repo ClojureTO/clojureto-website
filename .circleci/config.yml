@@ -46,7 +46,7 @@ jobs:
             cd clojureto.github.io
             cp -r ../workspace/public/* ./
             git commit -am "CircleCI deploy $CIRCLE_SHA1"
-            git push -f origin frank/test-ci-stuff
+            git push -f origin master
 
 workflows:
   version: 2
