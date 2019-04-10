@@ -12,6 +12,7 @@ List in alphabetical order:
 - [CircleCI](https://circleci.com)
 - [Dive Networks](https://www.dive-networks.com)
 - [Kira Systems](https://kirasystems.com)
+- [Receptiviti](https://www.receptiviti.com)
 - [Synqrinus](http://synqrinus.com)
 - [TODAQ](http://todaqfinance.net)
 - [University Health Network](https://www.uhn.ca)
