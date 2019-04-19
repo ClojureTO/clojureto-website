@@ -14,9 +14,11 @@ List in alphabetical order:
 - [CSTS Health Care](https://aiomics.ai)
 - [Dive Networks](https://www.dive-networks.com)
 - [Kira Systems](https://kirasystems.com)
+- [Receptiviti](https://www.receptiviti.com)
 - [Synqrinus](http://synqrinus.com)
 - [TODAQ](http://todaqfinance.net)
 - [University Health Network](https://www.uhn.ca)
+- [Uplift](https://www.uplift.com)
 
 You are welcome to add your own company here by following the [contribution guide][2].
 
