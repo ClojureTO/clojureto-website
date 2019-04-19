@@ -10,6 +10,7 @@ Inspired by [Clojure.org][1], we have created our own list of companies based in
 List in alphabetical order:
 
 - [CircleCI](https://circleci.com)
+- [CSTS Health Care](https://aiomics.ai)
 - [Dive Networks](https://www.dive-networks.com)
 - [Kira Systems](https://kirasystems.com)
 - [Synqrinus](http://synqrinus.com)
