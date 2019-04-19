@@ -9,6 +9,7 @@ Inspired by [Clojure.org][1], we have created our own list of companies based in
 
 List in alphabetical order:
 
+- [Amazon Toronto](https://amazon.com)
 - [CircleCI](https://circleci.com)
 - [CSTS Health Care](https://aiomics.ai)
 - [Dive Networks](https://www.dive-networks.com)
