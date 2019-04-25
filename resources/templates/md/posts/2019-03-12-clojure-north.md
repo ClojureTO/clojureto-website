@@ -30,7 +30,7 @@ I'm not saying that Clojure/north won't be available online afterwards. It will.
 
 2. If anyone is interested in volunteering their time at the event do feel free to reach out at hello@clojurenorth.com, we do need a few volunteers.
 
-3. If anyone works at a Clojure company we'd appreciate any additional sponsorship to help finance the event. The full sponsor prospectus can be found at [https://clojurenorth.com/clojure-north-2019-sponsorship-package.pdf].
+3. If anyone works at a Clojure company we'd appreciate any additional sponsorship to help finance the event. Get the [full sponsor prospectus](https://clojurenorth.com/clojure-north-2019-sponsorship-package.pdf) for more information.
 
 [1]: https://www.youtube.com/user/ClojureTV
 [2]: http://synqrinus.com
