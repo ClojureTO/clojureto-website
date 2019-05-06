@@ -8,9 +8,16 @@
 
 It's true that the time books need to be written and published is incompatible with the rapid pace Information Technology evolves, making them quickly obsolete. However, Clojure is well known by its long term stability and backwards compatibility. Its books have a very slow obsolescence, making them worth buying.
 
-What if you are not yet convinced that Clojure is the best programming language out there and you don't want to prematurely start your [Clojure book collection][1]? The [Toronto Public Library][2] is the answer.
+Most of Clojure programmers I know, including myself, love to own Clojure books, but beginners may find interesting to have access to some books for free, before starting a new [book collection][1]. The [Toronto Public Library][2] is there to help.
 
 ![(By Raysonho @ Open Grid Scheduler / Grid Engine - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=12312088)](/img/toronto-reference-library.jpg)
 
+About Toronto Library
+
+List of Clojure books available
+
+Sign up for a library card
+
 [1]: https://clojure.org/community/books
 [2]: https://www.torontopubliclibrary.ca
+[3]: https://www.torontopubliclibrary.ca/using-the-library/your-library-card/
