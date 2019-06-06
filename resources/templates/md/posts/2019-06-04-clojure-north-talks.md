@@ -6,6 +6,8 @@
 
 ## Composing Applications - by Rafal Dittwald
 
+Rafal talks about composable design, given Braid as an example in ClojureScript. The proposal looks very much how Django applications are designed, but Clojure doesn't need a framework to do the same thing. Braid is still a work in progress more than welcome to new contributors. Visit the repository on GitHub: https://github.com/braidchat/braid.
+
 https://www.youtube.com/watch?v=7HpI7d3-hpo
 
 ## Panel: Dealing With Data
